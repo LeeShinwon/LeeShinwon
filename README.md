@@ -4,7 +4,11 @@
 * * * * * * *
 
 ### Stack
-- - -
+  1. Computer Language
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  3. Front end
+  
+  5. Back end
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
