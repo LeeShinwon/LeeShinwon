@@ -4,7 +4,13 @@
 * * * * * * *
 
 
-  <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<div align="center">
+
+  ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=LeeShinwon&show_icons=true)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeShinwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+</div>
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -31,12 +37,12 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Terminal-241F31?style=flat-square&logo=GNOME Terminal&logoColor=white"/></a> &nbsp 
 
-  3. Front end
-  
-  5. Back end
+</p>
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -44,9 +50,9 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
+-->
 
 ### Project
 
 ### Career
-
