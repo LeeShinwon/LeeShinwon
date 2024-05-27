@@ -30,7 +30,7 @@
 2024 <br>
 * Melody(MacApp : UIKit, SwiftUI, AVFoundation, Vision) - hand guesture based music creation app
 <br> **Swift Student Challenge 2024 - Distinguished winner** 🍎
-* Capstone Project 2
+* Capstone Project 2 - micro measurable
 <br> air monitoring system based on LoRa networking(System : Arduino, 4 kinds of environmenal sensors etc ... / Web : react, node.js etc ...)
 * Apple Developer Academy @POSTECH - 1st Foundation program Learner
 
