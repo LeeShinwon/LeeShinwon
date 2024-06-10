@@ -23,7 +23,7 @@
 
 2023 <br>
 * Exchange student in RTU, Latvia 🇱🇻
-* Capstoen Project 1 - plan & design
+* Capstone Project 1 - plan & design
 * Drag(iOSApp : Flutter) - daily planner app
 * Th!nk(iOSApp : UIKit, Vision) - quick seating memorization app
 
