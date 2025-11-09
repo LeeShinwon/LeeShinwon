@@ -34,6 +34,9 @@
 <br> air monitoring system based on LoRa networking(System : Arduino, 4 kinds of environmenal sensors etc ... / Web : react, node.js etc ...)
 * Apple Developer Academy @POSTECH - 1st Foundation program Learner
 
+2025 <br>
+* New Dance (with EBS, GIST, AI Dance Education Application)
+
 <br>
 <br>
 
