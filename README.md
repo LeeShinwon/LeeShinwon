@@ -12,20 +12,9 @@
 <br>
 <br>
 
-### My Special Things ✨
-2020 <br>
-* Start of my conding life 👩🏻‍💻
-
-2021 <br>
-* Bizflow AppDev contest - 3rd Place 🥉
-* MBTI project(Web : Spring)
-
-
-2023 <br>
-* Exchange student in RTU, Latvia 🇱🇻
-* Capstone Project 1 - plan & design
-* Drag(iOSApp : Flutter) - daily planner app
-* Th!nk(iOSApp : UIKit, Vision) - quick seating memorization app
+### My Projects ✨
+2025 <br>
+* New Dance (with EBS, GIST, AI Dance Education Application)
 
 2024 <br>
 * Melody(MacApp : UIKit, SwiftUI, AVFoundation, Vision) - hand guesture based music creation app
@@ -34,8 +23,20 @@
 <br> air monitoring system based on LoRa networking(System : Arduino, 4 kinds of environmenal sensors etc ... / Web : react, node.js etc ...)
 * Apple Developer Academy @POSTECH - 1st Foundation program Learner
 
-2025 <br>
-* New Dance (with EBS, GIST, AI Dance Education Application)
+2023 <br>
+* Exchange student in RTU, Latvia 🇱🇻
+* Capstone Project 1 - plan & design
+* Drag(iOSApp : Flutter) - daily planner app
+* Th!nk(iOSApp : UIKit, Vision) - quick seating memorization app
+
+2021 <br>
+* Bizflow AppDev contest - 3rd Place 🥉
+* MBTI project(Web : Spring)
+
+2020 <br>
+* Start of my conding life 👩🏻‍💻
+
+
 
 <br>
 <br>
