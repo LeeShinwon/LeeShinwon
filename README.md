@@ -2,10 +2,9 @@
 <div>
 <h3> Hi there 👩🏻‍💻</h3>
 
-* I'm Handong Global University Student in South Korea. (2020 ~ )
-* I'm currently learning Swift, React, Flutter 🔥🔥
-* I'm a Distinguished Winner of Swift Student Challenge 2024
-* For more information, email me leeshin1130@gmail.com ~
+* Handong Global University Graduate (2020.03 ~ 2025.02)
+* I'm experienced in coding with Swift, React, and Flutter.
+* For more information, email me leeshin1130@gmail.com
   
 </div>
 
